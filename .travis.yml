@@ -1,0 +1,7 @@
+language: c
+
+os: linux
+dist: bionic
+
+before_install:
+  - sudo apt-get update
