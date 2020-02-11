@@ -5,3 +5,6 @@ dist: bionic
 
 before_install:
   - sudo apt-get update
+
+script:
+  - echo Test
